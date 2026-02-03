@@ -1,0 +1,53 @@
+{
+  "name": "Révision Interactive en Droit Social (DCG)",
+  "short_name": "Révision DS",
+  "description": "Application de révision interactive en droit social pour le DCG.",
+  "id": "com.revision.interactive.dcg",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+
+  "icons": [
+    {
+      "src": "/1000007760.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "src": "/1000007745.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/1000007747.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/1000007749.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/1000007754.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/1000007758.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/1000007760.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920"
+    }
+  ]
+}
